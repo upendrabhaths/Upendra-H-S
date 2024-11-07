@@ -1,0 +1,1 @@
+structure is the collection of elemnts of different data types under same name
