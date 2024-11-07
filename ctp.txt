@@ -1,1 +1,3 @@
 structure is the collection of elemnts of different data types under same name
+#include<iostream.h>
+if you are bad iam your dad
